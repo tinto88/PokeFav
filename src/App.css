@@ -1,0 +1,171 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+#normal {
+  background: #A8A77A;
+  
+  padding: 2px;
+  
+}
+
+#fire {
+  background: #EE8130;
+  
+  padding: 2px;
+  
+}
+
+#water {
+  background: #6390F0;
+  
+  padding: 2px;
+  
+}
+
+#electric {
+  background: #F7D02C;
+  
+  padding: 2px;
+  
+}
+
+#grass {
+  background: #7AC74C;
+  
+  padding: 2px;
+  
+}
+
+#ice {
+  background: #96D9D6;
+  
+  padding: 2px;
+  
+}
+
+#fighting {
+  background: #C22E28;
+  
+  padding: 2px;
+  
+}
+
+#poison {
+  background: #A33EA1;
+  
+  padding: 2px;
+  
+}
+
+#ground {
+  background: #E2BF65;
+  
+  padding: 2px;
+  
+}
+
+#flying {
+  background: #A98FF3;
+  
+  padding: 2px;
+  
+}
+
+#psychic {
+  background: #F95587;
+  
+  padding: 2px;
+  
+}
+
+#bug {
+  background: #A6B91A;
+  
+  padding: 2px;
+  
+}
+
+#rock {
+  background: #B6A136;
+  
+  padding: 2px;
+  
+}
+
+#ghost {
+  background: #735797;
+  
+  padding: 2px;
+  
+}
+
+#dragon {
+  background: #6F35FC;
+  
+  padding: 2px;
+  
+}
+
+#dark {
+  background: #705746;
+  
+  padding: 2px;
+  
+}
+
+#steel {
+  background: #B7B7CE;
+  
+  padding: 2px;
+  
+}
+
+#fairy {
+  background: #D685AD;
+  
+  padding: 2px;
+  
+}
